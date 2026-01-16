@@ -8,11 +8,11 @@
 
 <img src="../Specimens/DE/DEPRSCC0201020.0MT1.png" width="50%">
 
-* **[DEPRSCC0301010.0MT1]**-[1888 German Prussia 10 Mark Gold (Friedrich III)](../Specimens/DE/DEPRSCC0301010.0MT1)
+* **[DEPRSCC0301010.0MT1]**-[1888 German Prussia 10 Mark Gold (Frederick III)](../Specimens/DE/DEPRSCC0301010.0MT1)
 
 <img src="../Specimens/DE/DEPRSCC0301010.0MT1.png" width="50%">
 
-* **[DEPRSCC0401020.0MT1]**-[1888 German Prussia 20 Mark Gold (Friedrich III)](../Specimens/DE/DEPRSCC0401020.0MT1)
+* **[DEPRSCC0401020.0MT1]**-[1888 German Prussia 20 Mark Gold (Frederick III)](../Specimens/DE/DEPRSCC0401020.0MT1)
 
 <img src="../Specimens/DE/DEPRSCC0401020.0MT1.png" width="50%">
 
