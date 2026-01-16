@@ -1,12 +1,17 @@
 ## 🏛️ Numismatic Specimen Archive
 
-Welcome to the digital archive of Leon's historic numismatic specimen collection. 
-All data here is recorded with scientific rigor for permanent preservation.
+### Welcome to the digital archive of Leon's historic numismatic specimen collection. 
+
+### All data here is recorded with scientific rigor for permanent preservation.
 
 ## 📂 Collection Index
 
-* ["*Gold Native American Art*" collection](./Sub/native-american)
-* ["*Dreikaiserjahr*" collection](./Sub/dreikaiserjahr)
+* [Prussian Gold Coins Collection](./Sub/prussian)
+
+## 📂 Special Collection
+
+* [Gold "*Native American Art* Collection"](./Sub/native-american)
+* ["*Dreikaiserjahr*" Gold Collection](./Sub/dreikaiserjahr)
 
 
 ---
