@@ -5,11 +5,11 @@ All data here is recorded with scientific rigor for permanent preservation.
 
 ## 📂 Collection Index
 
-* ["*Indian Head*" collection](#US)
+* ["*Gold Native American Art*" collection](./Sub/native-american)
 * ["*Dreikaiserjahr*" collection](./Sub/dreikaiserjahr)
-
-* **[USUS0101001.0T1]** - [1851 United States Gold Dollar (Type 1)](./Specimens/US/USUS0101001.0T1)
 
 
 ---
+
+
 * This archive is anchored with a permanent DOI via Zenodo.*
