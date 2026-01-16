@@ -1,4 +1,4 @@
-## 🏛️ Numismatic Specimen Archive
+## Dreikaiserjahr
 
 Welcome to the digital archive of Leon's historic numismatic specimen collection. 
 All data here is recorded with scientific rigor for permanent preservation.
