@@ -12,6 +12,10 @@
 
 <img src="../Specimens/US/USUSSCC0301001.0DT3.png" width="50%">
 
+* **[USUSSCC0401002.5DT1]**-[1908 United States 2.5 Dollar Gold](../Specimens/US/USUSSCC0401002.5DT1)
+
+<img src="../Specimens/US/USUSSCC0401002.5DT1.png" width="50%">
+
 
 ---
 * This archive is anchored with a permanent DOI via Zenodo.*
